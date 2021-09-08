@@ -1,0 +1,6 @@
+![inputchoice](https://user-images.githubusercontent.com/90099507/132461452-4a5bd2ea-1386-4962-9ad7-7629593dec0b.png)
+![inverse](https://user-images.githubusercontent.com/90099507/132461575-6efd145f-f6eb-4de2-a368-ac158a64fca3.png)
+![matrixdata](https://user-images.githubusercontent.com/90099507/132461679-8a9d7ea4-f9a9-441a-8d2f-3c87494bd002.png)
+![product](https://user-images.githubusercontent.com/90099507/132461817-175dce9f-ea1e-41d7-810b-0cb9d04081f0.png)
+![transpose](https://user-images.githubusercontent.com/90099507/132461954-001a7a48-ab40-4e23-a144-7b54ed655114.png)
+![sum](https://user-images.githubusercontent.com/90099507/132461958-0dfb66c0-4ee4-4b56-aa3a-2ce6e4f7ee51.png)
